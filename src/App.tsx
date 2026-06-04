@@ -67,6 +67,7 @@ export default function App() {
                 <div className="exp-period">
                   {e.periodo}
                   {e.atual && <span className="exp-badge">atual</span>}
+                  <span className="exp-badge">{e.vinculo}</span>
                 </div>
                 <div>
                   <h3 className="exp-role">{e.cargo}</h3>
