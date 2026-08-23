@@ -107,7 +107,7 @@ export const skills: GrupoSkill[] = [
   },
   {
     categoria: "Ferramentas & Processos",
-    itens: ["Git", "GitHub", "Docker", "Power BI", "Power Apps", "Power Automate", "Kanban"],
+    itens: ["Git", "GitHub", "Docker", "Power BI", "Power Apps", "Power Automate", "Kanban", "N8N"],
   },
 ];
 
