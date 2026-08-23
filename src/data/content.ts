@@ -175,4 +175,9 @@ export const cursos = [
   "Lógica de Programação — Softblue (2022)",
   "Python: Desenvolvimento de Jogos — Udemy (2023)",
   "Bot de atendimento no WhatsApp (Python/PHP) — Udemy (2025)",
+  "Skills do Futuro e IA - ALURA 2026",
+  "IA: explorando o potencial da inteligência artificial generativa - ALURA 2026",
+  "ChatGPT: otimizando a qualidade dos resultados - ALURA 2026",
+  "Engenharia de Prompt: criando prompts eficazes para IA Generativa - ALURA 2026",
+  "Scrum: agilidade em seu projeto - ALURA 2026",
 ];
